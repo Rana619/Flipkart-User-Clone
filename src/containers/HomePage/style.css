@@ -1,0 +1,11 @@
+.imgClass{
+    width: 100%;
+    height: 280px;
+}
+.viewAllCont{
+    background-color: blue;
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 10px 30px;
+}

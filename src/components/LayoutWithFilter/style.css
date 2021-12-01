@@ -1,0 +1,71 @@
+.filterPageCont{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.filerSideBarLeft{
+   background-color: white;
+   width: 270px;
+}
+.AllProductContRight{
+  width: 1224px;
+  background-color: white;
+}
+.CategoryLevelCont{
+    padding : 20px;
+    border-bottom : 1px solid #cecece;
+    font-size : 14px;
+}
+.categ{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 16px;
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+.PriceSelectCont{
+    padding: 10px;
+    border-bottom : 1px solid #cecece;
+}
+.PriceLimitCont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.PriceLimitCont select {
+    width: 100px;
+    height: 25px;
+}
+.superCoineBalnce{
+    padding: 10px;
+    border-bottom : 1px solid #cecece;
+    display: flex;
+}
+.assuredCont{
+    padding: 10px;
+    border-bottom : 1px solid #cecece;
+    display: flex; 
+}
+.BetweenSpaceCont{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom : 1px solid #cecece;
+}
+.BetweenSpaceCont div{
+    font-weight: 500;
+}
+.giveMargin{
+    margin-bottom: 10px;
+}
+.ratingCont{
+    padding-bottom:10px;
+    border-bottom : 1px solid #cecece;
+}
+.sliderCont{
+    margin: 20px;
+}
+.sliderCont input {
+    width: 100%;
+}

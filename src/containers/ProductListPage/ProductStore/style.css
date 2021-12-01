@@ -1,0 +1,14 @@
+.storeProductContPS{
+    position: relative;
+}
+.heartIconPS{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 10px;
+    opacity: 0.3;
+}
+.productPrice{
+    display: flex;
+    justify-content: center;
+}

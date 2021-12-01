@@ -1,0 +1,46 @@
+.productDetailsMainCont{
+   position: relative;
+   margin-top: 15px;
+}
+.heartIcon{
+        position : absolute;
+        top : 0px;
+        left : 180px;
+        font-size : 19px;
+        opacity : 0.1;
+        cursor: pointer;
+}
+.ProductPageCont{
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e6e4e4;
+    justify-content: space-between;
+}
+.ProductPageCont .productImgCont{
+    height: 235px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+.productImgCont  img{
+   max-width: 150px;
+   max-height: 200px;
+   overflow: hidden;
+}
+.NameandDecCont{
+    max-width: 570px;
+}
+.ratingContpp{
+    font-size :13px; 
+    padding : 1px 4px;
+    background : green;
+    color : white;
+    margin-right : 5px;
+    border-radius: 3px;
+}

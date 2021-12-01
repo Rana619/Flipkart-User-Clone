@@ -1,0 +1,28 @@
+.productCont{
+    height: 270px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.productImgCont{
+  width: 170px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.offerHeader{
+  text-align: center;
+  font-weight: 500;
+}
+.offerText{
+   text-align: center;
+   color: green;
+   opacity: 0.7;
+}
+.offerSub{
+   text-align: center;
+   opacity: 0.6;
+}
