@@ -1,4 +1,4 @@
-export const api = 'https://flipkert-rest-server.herokuapp.com/api';
+export const api = 'https://web-production-eaa1.up.railway.app/api';
 export const generatePublicUrl = (fileName) =>{
-    return `https://flipkert-rest-server.herokuapp.com/public/${fileName}`;
-}
+    return `https://web-production-eaa1.up.railway.app/public/${fileName}`;
+} 
